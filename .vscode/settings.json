@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/263e6a7b-b758-4e6d-9e51-5da78582e95e/resourceGroups/uniphore_poc/providers/Microsoft.Web/sites/testreactapp01",
+    "appService.deploySubpath": "Server_Node"
+}
